@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
@@ -33,4 +35,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
