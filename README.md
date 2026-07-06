@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Two Pointers
 |  |
 | ------- |
