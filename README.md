@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3436-find-valid-emails](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/3436-find-valid-emails) |
 ## Two Pointers
 |  |
 | ------- |
