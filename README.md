@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/3465-find-products-with-valid-serial-numbers) |
+| [3475-dna-pattern-recognition](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/3475-dna-pattern-recognition) |
 ## Two Pointers
 |  |
 | ------- |
