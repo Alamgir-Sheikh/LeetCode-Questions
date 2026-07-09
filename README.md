@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
