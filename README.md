@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -131,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
