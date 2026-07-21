@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
+| [1903-largest-odd-number-in-string](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0326-power-of-three) |
+| [1903-largest-odd-number-in-string](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
