@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0912-sort-an-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0912-sort-an-array) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
