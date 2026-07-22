@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
