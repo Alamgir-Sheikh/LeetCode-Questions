@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0069-sqrtx) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0143-reorder-list) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
