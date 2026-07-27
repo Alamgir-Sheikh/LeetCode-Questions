@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [2465-number-of-distinct-averages](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2465-number-of-distinct-averages) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0912-sort-an-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0912-sort-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2465-number-of-distinct-averages) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0912-sort-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2465-number-of-distinct-averages) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
+| [2465-number-of-distinct-averages](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2465-number-of-distinct-averages) |
 ## Greedy
 |  |
 | ------- |
