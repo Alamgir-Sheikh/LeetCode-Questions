@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2465-number-of-distinct-averages](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [1903-largest-odd-number-in-string](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
+| [2000-reverse-prefix-of-word](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
