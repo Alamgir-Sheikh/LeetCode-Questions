@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2465-number-of-distinct-averages](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2465-number-of-distinct-averages) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0912-sort-an-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2465-number-of-distinct-averages) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2465-number-of-distinct-averages) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
