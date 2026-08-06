@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0912-sort-an-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [2465-number-of-distinct-averages](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Math
@@ -236,4 +237,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0994-rotting-oranges](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
