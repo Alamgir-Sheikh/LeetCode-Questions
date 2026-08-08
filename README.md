@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 ## Tree
 |  |
 | ------- |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0994-rotting-oranges) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
