@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0658-find-k-closest-elements](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2000-reverse-prefix-of-word) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [2465-number-of-distinct-averages](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2465-number-of-distinct-averages) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 ## Tree
 |  |
 | ------- |
@@ -167,12 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -255,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
