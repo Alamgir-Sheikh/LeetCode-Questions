@@ -123,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0326-power-of-three) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0190-reverse-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
