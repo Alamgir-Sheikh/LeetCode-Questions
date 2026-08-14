@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Array
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
