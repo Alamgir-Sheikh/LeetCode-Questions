@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0912-sort-an-array) |
@@ -174,12 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0912-sort-an-array) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [2465-number-of-distinct-averages](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2465-number-of-distinct-averages) |
@@ -297,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
