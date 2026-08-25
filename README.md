@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0392-is-subsequence) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [2465-number-of-distinct-averages](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/2465-number-of-distinct-averages) |
@@ -306,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
