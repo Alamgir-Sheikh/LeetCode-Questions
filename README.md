@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0994-rotting-oranges](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 ## Interactive
 |  |
