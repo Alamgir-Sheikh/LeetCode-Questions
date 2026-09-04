@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0180-consecutive-numbers) |
+| [0595-big-countries](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/0595-big-countries) |
 | [1045-customers-who-bought-all-products](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1045-customers-who-bought-all-products) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Alamgir-Sheikh/LeetCode-Questions/tree/master/1341-movie-rating) |
